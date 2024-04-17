@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Tue Apr 16 19:07:37 CEST 2024:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018e-e7e0-ddde-00000d8b79d0 
-on database directory /Users/nana/Documents/Scala/scala-project-johanna/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@27b7e663 
+Wed Apr 17 14:42:21 CEST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018e-ec14-5ba8-000008482628 
+on database directory /Users/nana/Documents/Scala/scala-project-johanna/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@4960b819 
 Loaded from file:/Users/nana/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Temurin
 java.runtime.version=1.8.0_402-b06

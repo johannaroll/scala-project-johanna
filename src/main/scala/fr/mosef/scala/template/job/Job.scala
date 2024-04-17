@@ -10,6 +10,6 @@ trait Job {
   val writer: Writer
   val src_path: String
   val dst_path: String
-  val inputDF: DataFrame
-  val processedDF: DataFrame
+  //val inputDF: DataFrame
+  //val processedDF: DataFrame
 }

@@ -8,6 +8,11 @@ trait Reader {
 
   def read(path: String): DataFrame
 
+  def readParquet(path: String): DataFrame
+
+  def readTable(tableName: String, location: String): DataFrame
+
   def read(): DataFrame
 
+  def readHiveTablee(tableName: String): DataFrame
 }
